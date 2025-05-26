@@ -9,17 +9,6 @@ Make deposists and withdraws
 Check the balance of the accounts
 Switch between different accounts 
 And Exit the program at any time with a goodbye message
-
-Assignment Requirements: 
-1. Uses variables, data types, and operators correctly- Variables store account names, balances, and options using appropriate types like String, double, and int. Arithmetic operators update balances.
-2. Implements control flow statements (if/else, loops, switch)- if-else statements validate user input, while loops ensure correct user entries, and a switch statement handles menu navigation.
-3. Defines and calls methods with parameters and return values- Methods such as deposit, withdraw, and menuChoice accept arguments and return values based on account changes.
-4. Uses object-oriented programming (OOP) principles- A class named Account is used to define account data and behavior. Account objects are created and stored in an ArrayList.
-5. Implements basic exception handling- try-catch blocks are used to handle errors such as non-numeric user input when numbers are expected.
-6. Unique account number generator for each new account- A static variable in the Account class ensures each new account has a unique number starting from 1000.
-7. Allows users to create multiple accounts and switch between them- Accounts are stored in a list, and users can select an account from the list to make it the current active account.
-8. Includes basic user input handling using the Scanner class- Scanner is used to collect input for names, amounts, and menu selections.
-9. Outputs meaningful results using System.out.println()- The program gives users clear messages about actions such as deposits, withdrawals, errors, and balances.
   
 Sample Console Interaction: 
 
