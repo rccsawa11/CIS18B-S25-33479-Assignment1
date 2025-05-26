@@ -11,7 +11,7 @@ Switch between different accounts
 And Exit the program at any time with a goodbye message
 
 Assignment Requirements: 
-1. Uses variables, data types, and operators correctly- Variables store account names, balances, and options using appropriate types like `String`, `double`, and `int`. Arithmetic operators update balances.
+1. Uses variables, data types, and operators correctly- Variables store account names, balances, and options using appropriate types like String, double, and int. Arithmetic operators update balances.
 2. Implements control flow statements (if/else, loops, switch)- if-else statements validate user input, while loops ensure correct user entries, and a switch statement handles menu navigation.
 3. Defines and calls methods with parameters and return values- Methods such as deposit, withdraw, and menuChoice accept arguments and return values based on account changes.
 4. Uses object-oriented programming (OOP) principles- A class named Account is used to define account data and behavior. Account objects are created and stored in an ArrayList.
