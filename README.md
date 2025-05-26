@@ -21,13 +21,6 @@ Assignment Requirements:
 8. Includes basic user input handling using the Scanner class- Scanner is used to collect input for names, amounts, and menu selections.
 9. Outputs meaningful results using System.out.println()- The program gives users clear messages about actions such as deposits, withdrawals, errors, and balances.
   
-
-
-For future improvements, 
-I would like to add account deletion and checks to prevent from deleting when the balance is > 0 and add a transaction history for each account.
-
-This project really taught me how to build a simple object oriented application and it was my first time managing multiple objects in one runtime. 
-
 Sample Console Interaction: 
 
 Welcome to Leen's Simple Banking System! 
